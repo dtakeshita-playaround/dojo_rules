@@ -2,4 +2,5 @@
 *My favorate is https://www.codeschool.com/learn/html-css
 *Matlab
 *C/C++
+*Killing history using git rebase
 
